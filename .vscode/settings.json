@@ -1,0 +1,5 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cmake.sourceDirectory": "C:/andy-qr/andy_qr/linux",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
